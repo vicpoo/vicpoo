@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Soy un estudiante que estudia una ingeniería en desarrollo de software, que le gusta mucho aprender nuevos lenguajes de programacion y resolver problemas con los conocimientos que ya he adquirido</p>
+<p align="left">Soy un estudiante de ingeniería en desarrollo de software, que le gusta mucho aprender nuevos lenguajes de programacion y resolver problemas</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Las tecnologias que mas uso dependiendo al area que me especializo son variadas ya que si trabajo en la parte de frontend me gusta usar : Angular con tailwind css y para el backend me gusta usar TypeScript o Go para mi API y MySQL workbench para hacer mis tablas en la BD, pero conozco más lenguajes de programacion.</p>
+<p align="left">Las tecnologias que más uso dependiendo al area que me especializo son variadas, ya que si trabajo en la parte de frontend me gusta usar : Angular con tailwind css y para el backend me gusta usar TypeScript o Go para mi API y MySQL workbench para hacer mis tablas en la BD, pero conozco más lenguajes de programacion.</p>
 
 ###
 
